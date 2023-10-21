@@ -1,2 +1,4 @@
 # Databricks notebook source
-print("test")
+print("test");
+
+print("something else")
